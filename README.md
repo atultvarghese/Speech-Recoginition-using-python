@@ -1,8 +1,7 @@
 # Speech-Recoginition-using-python
 
 
-pip install SpeechRecoginition 
-python 3*
-output:
+
+#output:
 <img src="./images/output.png" />
 
